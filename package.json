@@ -1,0 +1,26 @@
+{
+  "name": "fully-spelled-out",
+  "version": "0.0.0",
+  "description": "Une bibliothèque qui sert à écrire un nombre entier positif en toutes lettres (en français). Seuls les nombres compris entre 0 (inclus) et 1000000 (inclus) sont supportés.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prochnost/fully-spelled-out.git"
+  },
+  "keywords": [
+    "convertir",
+    "nombre",
+    "en",
+    "toutes",
+    "lettres"
+  ],
+  "author": "Anthony Chibinda Kangoro <chibinda.kangoro@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prochnost/fully-spelled-out/issues"
+  },
+  "homepage": "https://github.com/prochnost/fully-spelled-out#readme"
+}
